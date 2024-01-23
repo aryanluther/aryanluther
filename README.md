@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
  AWS - associate developer certification 
 
-**`🌱 I’m Looking for `**
+**`🤔 I’m Looking for `**
 
  Software developer possition 
 
