@@ -22,15 +22,15 @@ Here are some ideas to get you started:
 
 **`🌱 I’m currently learning `**
 
-### AWS - associate developer certification 
+ AWS - associate developer certification 
 
 **`🌱 I’m Looking for `**
 
-### Software developer possition 
+ Software developer possition 
 
 **`📫 How to reach me: `**
 
-### email-  aryanluther2000@gmail.com
+email-  aryanluther2000@gmail.com
 
 ---
 ## 🧰 Languages & Tools
