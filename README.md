@@ -1,7 +1,7 @@
 
-### Hi there 👋
 
-# Hey there! Thanks for stopping by my GitHub! 🚀 I'm currently giving my repos a makeover, and they'll be strutting their stuff in the limelight soon. 
+
+# Hey there! 👋 Thanks for stopping by my GitHub! 🚀 I'm currently giving my repos a makeover, and they'll be strutting their stuff in the limelight soon. 
 # While they're getting glammed up, feel free to dive into my other cool projects. Stay tuned for the grand reveal! 🎉
 
 **`Full Stack Software Engineer `**
