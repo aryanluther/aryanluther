@@ -1,8 +1,8 @@
 
 ### Hi there 👋
 
-## Thank you for visiting my github. I am currently rearranging my github repositories 
-## they will be available to public soon. Until then you can check out my other projects.
+# Hey there! Thanks for stopping by my GitHub! 🚀 I'm currently giving my repos a makeover, and they'll be strutting their stuff in the limelight soon. 
+# While they're getting glammed up, feel free to dive into my other cool projects. Stay tuned for the grand reveal! 🎉
 
 **`Full Stack Software Engineer `**
 
