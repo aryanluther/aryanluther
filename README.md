@@ -1,4 +1,8 @@
+
 ### Hi there 👋
+
+## Thank you for visiting my github. I am currently rearranging my github repositories 
+## they will be available to public soon. Until then you can check out my other projects.
 
 **`Full Stack Software Engineer `**
 
